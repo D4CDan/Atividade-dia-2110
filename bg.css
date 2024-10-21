@@ -1,0 +1,13 @@
+.text{
+    width: 120%;
+    height: 300px;
+    background-color: white;
+    color: rgb(255, 255, 255);
+    background-color: rgba(0, 0, 0, 0.5);
+    background-image:url(ikaruga.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-blend-mode: multiply;
+}
